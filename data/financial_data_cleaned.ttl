@@ -1,0 +1,1786 @@
+@prefix ex: <http://example.org/ontology/> .
+
+<http://example.org/ontology/company/000608> a ex:Company ;
+    ex:chairman "唐军" ;
+    ex:chairmanSecretary "赵博" ;
+    ex:companyName "阳光新业地产股份有限公司" ;
+    ex:employeeCount "147" ;
+    ex:englishName "Yang Guang Co.,Ltd." ;
+    ex:fax "86-010-88365280" ;
+    ex:industry "房地产 — 房地产开发Ⅱ" ;
+    ex:legalRepresentative "唐军" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/000608.png" ;
+    ex:mainBusiness "房地产开发与销售，投资性房地产出租与资产管理输出服务" ;
+    ex:officeAddress "北京市西城区西直门外大街112号阳光大厦11层" ;
+    ex:phone "86-010-68361088" ;
+    ex:region "广西壮族自治区" ;
+    ex:registeredCapital "7.5亿元" ;
+    ex:stockCode "000608" ;
+    ex:website "www.yangguangxinye.com" ;
+    ex:zipcode "100044" .
+
+<http://example.org/ontology/company/002025> a ex:Company ;
+    ex:ceo "王跃轩" ;
+    ex:chairman "陈振宇" ;
+    ex:chairmanSecretary "张旺" ;
+    ex:companyName "贵州航天电器股份有限公司" ;
+    ex:employeeCount "4317" ;
+    ex:englishName "Guizhou Space Appliance Co.,Ltd" ;
+    ex:fax "86-0851-88697000" ;
+    ex:industry "国防军工 — 航天装备" ;
+    ex:legalRepresentative "陈振宇" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/002025.png" ;
+    ex:mainBusiness "高端继电器、连接器、微特电机、光电子产品、电缆组件的研制、生产和销售" ;
+    ex:majorShareholder "航天江南集团有限公司" ;
+    ex:officeAddress "贵州省贵阳市花溪区经济技术开发区红河路7号" ;
+    ex:phone "86-0851-88697168;86-0851-88697026" ;
+    ex:region "贵州省" ;
+    ex:registeredCapital "4.29亿元" ;
+    ex:stockCode "002025" ;
+    ex:website "www.gzhtdq.com.cn" ;
+    ex:zipcode "550009" .
+
+<http://example.org/ontology/company/002387> a ex:Company ;
+    ex:actualController "王文学" ;
+    ex:ceo "张德强" ;
+    ex:chairman "程涛" ;
+    ex:chairmanSecretary "刘宇宙" ;
+    ex:companyName "维信诺科技股份有限公司" ;
+    ex:employeeCount "7214" ;
+    ex:englishName "Visionox Technology Inc." ;
+    ex:fax "86-010-84059359" ;
+    ex:finalController "王文学" ;
+    ex:industry "电子 — 光学光电子" ;
+    ex:legalRepresentative "程涛" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/002387.png" ;
+    ex:mainBusiness "OLED新型显示产品的研发、生产、销售和技术服务。" ;
+    ex:majorShareholder "西藏知合资本管理有限公司" ;
+    ex:officeAddress "北京市朝阳区东三环北路辛2号迪阳大厦606单元" ;
+    ex:phone "86-010-84059733" ;
+    ex:region "江苏省" ;
+    ex:registeredCapital "13.68亿元" ;
+    ex:stockCode "002387" ;
+    ex:website "www.visionox.com" ;
+    ex:zipcode "100027" .
+
+<http://example.org/ontology/company/002652> a ex:Company ;
+    ex:ceo "胡卫林" ;
+    ex:chairman "王功虎" ;
+    ex:chairmanSecretary "金跃国" ;
+    ex:companyName "苏州扬子江新型材料股份有限公司" ;
+    ex:employeeCount "801" ;
+    ex:englishName "Suzhou Yangtze New Materials Co.,Ltd." ;
+    ex:fax "86-0512-68073999" ;
+    ex:industry "建筑材料 — 其他建材" ;
+    ex:legalRepresentative "王功虎" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/002652.png" ;
+    ex:mainBusiness "有机涂层板及其基板的研发、生产和销售。" ;
+    ex:majorShareholder "南宁颐然养老产业合伙企业(有限合伙)" ;
+    ex:officeAddress "江苏省苏州市相城区潘阳工业园春丰路88号" ;
+    ex:phone "86-0512-68327201" ;
+    ex:region "江苏省" ;
+    ex:registeredCapital "5.12亿元" ;
+    ex:stockCode "002652" ;
+    ex:website "www.yzjnm.com" ;
+    ex:zipcode "215143" .
+
+<http://example.org/ontology/company/0083> a ex:Company ;
+    ex:companyName "信和置业有限公司" ;
+    ex:email "info@sino.com" ;
+    ex:employeeCount "6950" ;
+    ex:fax "852-27235091;852-23691236" ;
+    ex:industry "地产建筑业 - 地产 - 地产发展商" ;
+    ex:mainBusiness "物业租赁，物业销售，酒店经营，管理服务，股票投资及买卖，与财务。" ;
+    ex:phone "852-27218388;852-27348312" ;
+    ex:stockCode "0083" .
+
+<http://example.org/ontology/company/0369> a ex:Company ;
+    ex:companyName "永泰地产有限公司" ;
+    ex:email "enquiry@wingtaiproperties.com;ir@wingtaiproperties.com" ;
+    ex:employeeCount "480" ;
+    ex:fax "852-23297556;852-28014302" ;
+    ex:industry "地产建筑业 - 地产 - 地产发展商" ;
+    ex:mainBusiness "物业发展、物业投资及管理及服务式住宅物业投资及管理。" ;
+    ex:phone "852-27522338;852-29739905" ;
+    ex:stockCode "0369" .
+
+<http://example.org/ontology/company/0606> a ex:Company ;
+    ex:companyName "中国粮油控股有限公司" ;
+    ex:email "ir@cofco.com" ;
+    ex:employeeCount "18011" ;
+    ex:fax "852-28330319" ;
+    ex:industry "消费品制造业 - 农业产品 - 农产品" ;
+    ex:mainBusiness "油籽加工；生化和生物燃料产品的生产及销售；大米加工和贸易；小麦加工；及啤酒原料的生产及销售。" ;
+    ex:phone "852-28330606" ;
+    ex:stockCode "0606" .
+
+<http://example.org/ontology/company/1058> a ex:Company ;
+    ex:companyName "粤海制革有限公司" ;
+    ex:email "--" ;
+    ex:employeeCount "384" ;
+    ex:fax "852-27890451" ;
+    ex:industry "消费品制造业 - 纺织、服饰及个人护理 - 其他服饰配件" ;
+    ex:mainBusiness "加工与销售皮革半制成品及制成品。" ;
+    ex:phone "852-23081013" ;
+    ex:stockCode "1058" .
+
+<http://example.org/ontology/company/1751> a ex:Company ;
+    ex:companyName "景联集团控股有限公司" ;
+    ex:email "info@kingland.com.hk" ;
+    ex:employeeCount "106" ;
+    ex:fax "852-27989187" ;
+    ex:industry "地产建筑业 - 建筑 - 楼宇建造" ;
+    ex:mainBusiness "于中国香港及中国澳门提供混凝土拆卸工程。" ;
+    ex:phone "852-27989202" ;
+    ex:stockCode "1751" .
+
+<http://example.org/ontology/company/3303> a ex:Company ;
+    ex:companyName "巨涛海洋石油服务有限公司" ;
+    ex:email "yxy@jutal.com" ;
+    ex:employeeCount "2991" ;
+    ex:fax "86-0755-26694666" ;
+    ex:industry "能源业 - 石油及天然气 - 气油设备与服务" ;
+    ex:mainBusiness "向油气行业与船舶制造行业提供包括制造与技术支持在内的综合服务。" ;
+    ex:phone "86-0755-26694111;86-0755-26850472" ;
+    ex:stockCode "3303" .
+
+<http://example.org/ontology/company/3382> a ex:Company ;
+    ex:companyName "天津港发展控股有限公司" ;
+    ex:email "ir@tianjinportdev.com" ;
+    ex:employeeCount "8500" ;
+    ex:fax "852-28992086" ;
+    ex:industry "工业 - 工用运输 - 航运及港口" ;
+    ex:mainBusiness "在中国天津港提供集装箱及散杂货装卸服务、销售及其他港口配套服务。" ;
+    ex:phone "852-28478888" ;
+    ex:stockCode "3382" .
+
+<http://example.org/ontology/company/3636> a ex:Company ;
+    ex:companyName "保利文化集团股份有限公司" ;
+    ex:email "ir@polyculture.com.cn;blwh@polyculture.com.cn" ;
+    ex:employeeCount "8008" ;
+    ex:fax "86-010-64082662" ;
+    ex:industry "消费者服务业 - 支援服务 - 支援服务" ;
+    ex:mainBusiness "艺术品经营与拍卖、演出与剧院管理和影院投资管理。" ;
+    ex:phone "86-010-64082711" ;
+    ex:stockCode "3636" .
+
+<http://example.org/ontology/company/430071> a ex:Company ;
+    ex:actualController "曲宁" ;
+    ex:ceo "曲宁" ;
+    ex:chairman "曲宁" ;
+    ex:chairmanSecretary "杨丽萍" ;
+    ex:companyName "北京首都在线科技股份有限公司" ;
+    ex:employeeCount "391" ;
+    ex:englishName "Capitalonline Data Service Co., Ltd." ;
+    ex:fax "86-010-88862121" ;
+    ex:finalController "曲宁" ;
+    ex:industry "计算机 — 计算机应用" ;
+    ex:legalRepresentative "曲宁" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/430071.png" ;
+    ex:mainBusiness "因特网数据中心业务(IDC)和云计算服务。" ;
+    ex:majorShareholder "曲宁" ;
+    ex:officeAddress "北京市海淀区东冉北街9号宝蓝金园国际中心B段三层B3010号房间" ;
+    ex:phone "86-010-51995976" ;
+    ex:region "北京市" ;
+    ex:registeredCapital "3.61亿元" ;
+    ex:stockCode "430071" ;
+    ex:website "www.capitalonline.net" ;
+    ex:zipcode "100195" .
+
+<http://example.org/ontology/company/430103> a ex:Company ;
+    ex:actualController "袁恒" ;
+    ex:ceo "袁恒" ;
+    ex:chairman "陈敏" ;
+    ex:chairmanSecretary "张君源" ;
+    ex:companyName "北京天大清源通信科技股份有限公司" ;
+    ex:employeeCount "210" ;
+    ex:englishName "Beijing Tiandaqingyuan Communicationtechnology Co., Ltd." ;
+    ex:fax "86-010-62277030" ;
+    ex:finalController "袁恒" ;
+    ex:industry "信息设备 — 计算机设备" ;
+    ex:legalRepresentative "陈敏" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/430103.png" ;
+    ex:mainBusiness "电脑密码锁文件柜、防电磁泄漏发射产品、网络信息安全保密产品的研发、生产和销售，屏蔽工程的设计和建设，并提供相关的技术服务。" ;
+    ex:majorShareholder "袁恒" ;
+    ex:officeAddress "北京市海淀区四道口路净土寺32号东区8幢楼6层" ;
+    ex:phone "86-010-62220090-8006" ;
+    ex:region "北京市" ;
+    ex:registeredCapital "5000万元" ;
+    ex:stockCode "430103" ;
+    ex:website "www.skysec.com.cn" ;
+    ex:zipcode "100044" .
+
+<http://example.org/ontology/company/430397> a ex:Company ;
+    ex:actualController "罗强、朱国平" ;
+    ex:ceo "张克永" ;
+    ex:chairman "朱国平" ;
+    ex:chairmanSecretary "朱国平" ;
+    ex:companyName "无锡金帆钻凿设备股份有限公司" ;
+    ex:employeeCount "52" ;
+    ex:englishName "Wuxi Jinfan Drilling Equipment Co., Ltd" ;
+    ex:fax "86-0510-88551771" ;
+    ex:finalController "罗强、朱国平" ;
+    ex:industry "机械设备 — 专用设备" ;
+    ex:legalRepresentative "朱国平" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/430397.png" ;
+    ex:mainBusiness "从事各种钻凿设备的生产和销售" ;
+    ex:majorShareholder "罗强、朱国平" ;
+    ex:officeAddress "江苏省无锡市新吴区梅村工业集中区锡泰路221号" ;
+    ex:phone "86-0510-88552666" ;
+    ex:region "江苏省" ;
+    ex:registeredCapital "3000万元" ;
+    ex:stockCode "430397" ;
+    ex:website "www.wuxijinfan.com" ;
+    ex:zipcode "214112" .
+
+<http://example.org/ontology/company/430519> a ex:Company ;
+    ex:actualController "曾永春、张嘉" ;
+    ex:ceo "曾永春" ;
+    ex:chairman "曾永春" ;
+    ex:chairmanSecretary "张强" ;
+    ex:companyName "大连博控科技股份有限公司" ;
+    ex:employeeCount "86" ;
+    ex:englishName "Dalian Bocon Science Technology Co., Ltd" ;
+    ex:fax "86-0411-84821017" ;
+    ex:finalController "曾永春、张嘉" ;
+    ex:industry "机械设备 — 仪器仪表" ;
+    ex:legalRepresentative "曾永春" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/430519.png" ;
+    ex:mainBusiness "温度传感器的研发、生产和销售。" ;
+    ex:majorShareholder "曾永春" ;
+    ex:officeAddress "辽宁省大连市沙河口区高新技术产业园区黄浦路782号202-8、206室" ;
+    ex:phone "86-0411-84793453" ;
+    ex:region "辽宁省" ;
+    ex:registeredCapital "1200万元" ;
+    ex:stockCode "430519" ;
+    ex:website "www.bocondalian.com" ;
+    ex:zipcode "116023" .
+
+<http://example.org/ontology/company/430712> a ex:Company ;
+    ex:actualController "林晟" ;
+    ex:ceo "林晟" ;
+    ex:chairman "林晟" ;
+    ex:chairmanSecretary "林晟(代)" ;
+    ex:companyName "福建索天信息科技股份有限公司" ;
+    ex:employeeCount "51" ;
+    ex:englishName "Fujian System Technology Co.,Ltd." ;
+    ex:fax "86-0591-83610220" ;
+    ex:finalController "林晟" ;
+    ex:industry "信息设备 — 通信设备" ;
+    ex:legalRepresentative "林晟" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/430712.png" ;
+    ex:mainBusiness "智能卡为核心的“城市一卡通”等金融/非金融领域电子支付系统相关硬件产品和软件产品的研发销售和技术服务。" ;
+    ex:majorShareholder "林晟" ;
+    ex:officeAddress "福建省福州市鼓楼区铜盘路软件大道89号福州软件园B区23号楼201室" ;
+    ex:phone "86-0591-87802775" ;
+    ex:region "福建省" ;
+    ex:registeredCapital "2537万元" ;
+    ex:stockCode "430712" ;
+    ex:website "www.sys-tech.com.cn" ;
+    ex:zipcode "350001" .
+
+<http://example.org/ontology/company/600039> a ex:Company ;
+    ex:ceo "甘洪" ;
+    ex:chairman "孙云" ;
+    ex:chairmanSecretary "周勇" ;
+    ex:companyName "四川路桥建设集团股份有限公司" ;
+    ex:employeeCount "10930" ;
+    ex:englishName "Sichuan Road & Bridge Co.,Ltd" ;
+    ex:fax "86-028-85126084" ;
+    ex:industry "建筑装饰 — 基础建设" ;
+    ex:legalRepresentative "孙云" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/600039.png" ;
+    ex:mainBusiness "公路工程施工、铁路工程施工、交通基础设施投资建设、清洁能源、矿产资源等版块" ;
+    ex:majorShareholder "四川省铁路产业投资集团有限责任公司" ;
+    ex:officeAddress "四川省成都市武侯区高新区九兴大道12号" ;
+    ex:phone "86-028-85126085" ;
+    ex:region "四川省" ;
+    ex:registeredCapital "36.11亿元" ;
+    ex:stockCode "600039" ;
+    ex:website "www.scrbc.com.cn" ;
+    ex:zipcode "610041" .
+
+<http://example.org/ontology/company/600251> a ex:Company ;
+    ex:actualController "新疆生产建设兵团农业建设第二师" ;
+    ex:ceo "肖莉" ;
+    ex:chairman "刘中海" ;
+    ex:chairmanSecretary "金建霞" ;
+    ex:companyName "新疆冠农果茸股份有限公司" ;
+    ex:employeeCount "796" ;
+    ex:englishName "Xinjiang Guannong Fruit & Antler Co.,Ltd." ;
+    ex:fax "86-0996-2113788" ;
+    ex:finalController "新疆生产建设兵团农业建设第二师" ;
+    ex:industry "农林牧渔 — 农产品加工" ;
+    ex:legalRepresentative "刘中海" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/600251.png" ;
+    ex:mainBusiness "主要从事番茄、棉花、甜菜糖、新疆特色干鲜果品的收购、加工和销售。" ;
+    ex:majorShareholder "新疆冠农集团有限责任公司" ;
+    ex:officeAddress "新疆维吾尔自治区巴音郭楞蒙古自治州库尔勒市团结南路48号小区" ;
+    ex:phone "86-0996-2113386;86-0996-2113788" ;
+    ex:region "新疆维吾尔自治区" ;
+    ex:registeredCapital "7.85亿元" ;
+    ex:stockCode "600251" ;
+    ex:website "www.gngf.cn" ;
+    ex:zipcode "841000" .
+
+<http://example.org/ontology/company/600428> a ex:Company ;
+    ex:ceo "陈威" ;
+    ex:chairman "丁农" ;
+    ex:chairmanSecretary "董宇航" ;
+    ex:companyName "中远海运特种运输股份有限公司" ;
+    ex:employeeCount "1733" ;
+    ex:englishName "Cosco Shipping Specialized Carriers Co.,Ltd." ;
+    ex:fax "86-020-38162888" ;
+    ex:industry "交通运输 — 航运Ⅱ" ;
+    ex:legalRepresentative "丁农" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/600428.png" ;
+    ex:mainBusiness "远洋及沿海货物运输" ;
+    ex:officeAddress "广东省广州市天河区珠江新城花城大道20号广州远洋大厦15-26楼" ;
+    ex:phone "86-020-38161888" ;
+    ex:region "广东省" ;
+    ex:registeredCapital "21.47亿元" ;
+    ex:stockCode "600428" ;
+    ex:website "spe.coscoshipping.com" ;
+    ex:zipcode "510623" .
+
+<http://example.org/ontology/company/600666> a ex:Company ;
+    ex:actualController "左洪波、褚淑霞" ;
+    ex:ceo "霍光" ;
+    ex:chairman "杨鑫宏" ;
+    ex:chairmanSecretary "梁影" ;
+    ex:companyName "奥瑞德光电股份有限公司" ;
+    ex:employeeCount "1424" ;
+    ex:englishName "Aurora Optoelectronics Co.,Ltd." ;
+    ex:fax "86-0451-87185718" ;
+    ex:finalController "左洪波、褚淑霞" ;
+    ex:industry "电子 — 光学光电子" ;
+    ex:legalRepresentative "杨鑫宏" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/600666.png" ;
+    ex:mainBusiness "蓝宝石晶体材料、蓝宝石晶体生长专用装备及蓝宝石制品的研发、生产和销售;硬脆材料精密加工专用设备的研发、设计、生产和销售" ;
+    ex:majorShareholder "左洪波、褚淑霞" ;
+    ex:officeAddress "黑龙江省哈尔滨市宾县宾西经济技术开发区海滨路6号" ;
+    ex:phone "86-0451-51076628" ;
+    ex:region "黑龙江省" ;
+    ex:registeredCapital "12.27亿元" ;
+    ex:stockCode "600666" ;
+    ex:website "www.aurora-sapphire.cn" ;
+    ex:zipcode "150431" .
+
+<http://example.org/ontology/company/601111> a ex:Company ;
+    ex:chairman "蔡剑江" ;
+    ex:chairmanSecretary "周峰" ;
+    ex:companyName "中国国际航空股份有限公司" ;
+    ex:employeeCount "85602" ;
+    ex:englishName "Air China Limited" ;
+    ex:fax "86-010-61462805" ;
+    ex:industry "交通运输 — 航空运输Ⅱ" ;
+    ex:legalRepresentative "蔡剑江" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/601111.png" ;
+    ex:mainBusiness "提供国内、港澳台地区及国际航空客运、货运及邮运业务。" ;
+    ex:majorShareholder "中国航空集团有限公司" ;
+    ex:officeAddress "北京市顺义区空港工业区天柱路30号" ;
+    ex:phone "86-010-61461049;86-010-61462794" ;
+    ex:region "北京市" ;
+    ex:registeredCapital "145.25亿元" ;
+    ex:stockCode "601111" ;
+    ex:website "www.airchina.com.cn" ;
+    ex:zipcode "101312" .
+
+<http://example.org/ontology/company/603239> a ex:Company ;
+    ex:actualController "李起富" ;
+    ex:ceo "金桂云" ;
+    ex:chairman "李起富" ;
+    ex:chairmanSecretary "项青锋" ;
+    ex:companyName "浙江仙通橡塑股份有限公司" ;
+    ex:employeeCount "1860" ;
+    ex:englishName "Zhejiang Xiantong Rubber&Plastic Co.,Ltd" ;
+    ex:fax "86-0576-87684299" ;
+    ex:finalController "李起富" ;
+    ex:industry "汽车 — 汽车零部件" ;
+    ex:legalRepresentative "李起富" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/603239.png" ;
+    ex:mainBusiness "从事汽车密封条等汽车零部件的研发、设计、生产和销售" ;
+    ex:majorShareholder "李起富" ;
+    ex:officeAddress "浙江省台州市仙居县现代工业集聚区" ;
+    ex:phone "86-0576-87684158" ;
+    ex:region "浙江省" ;
+    ex:registeredCapital "2.71亿元" ;
+    ex:stockCode "603239" ;
+    ex:website "www.zjxtgf.cn" ;
+    ex:zipcode "317306" .
+
+<http://example.org/ontology/company/603505> a ex:Company ;
+    ex:actualController "王锦华" ;
+    ex:ceo "赵建平" ;
+    ex:chairman "王锦华" ;
+    ex:chairmanSecretary "戴水君" ;
+    ex:companyName "金石资源集团股份有限公司" ;
+    ex:employeeCount "715" ;
+    ex:englishName "China Kings Resources Group Co.,Ltd." ;
+    ex:fax "86-0571-88380820" ;
+    ex:finalController "王锦华" ;
+    ex:industry "采掘 — 其他采掘Ⅱ" ;
+    ex:legalRepresentative "王锦华" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/603505.png" ;
+    ex:mainBusiness "萤石矿的投资和开发，以及萤石产品的生产和销售" ;
+    ex:majorShareholder "浙江金石实业有限公司" ;
+    ex:officeAddress "浙江省杭州市西湖区求是路8号公元大厦南楼2301室" ;
+    ex:phone "86-0571-81387094" ;
+    ex:region "浙江省" ;
+    ex:registeredCapital "2.4亿元" ;
+    ex:stockCode "603505" ;
+    ex:website "www.chinesekings.com" ;
+    ex:zipcode "310013" .
+
+<http://example.org/ontology/company/830849> a ex:Company ;
+    ex:actualController "孙罡" ;
+    ex:ceo "孟伟" ;
+    ex:chairman "逄振中" ;
+    ex:chairmanSecretary "刘瑜" ;
+    ex:companyName "河南平原智能装备股份有限公司" ;
+    ex:employeeCount "479" ;
+    ex:englishName "Henan Pingyuan Intelligent Equipment Company Ltd." ;
+    ex:fax "86-0371-89913898" ;
+    ex:finalController "孙罡" ;
+    ex:industry "机械设备 — 专用设备" ;
+    ex:legalRepresentative "逄振中" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/830849.png" ;
+    ex:mainBusiness "智能自动化生产线系统的研发、设计、生产、销售、安装调试等" ;
+    ex:majorShareholder "河南平原控股集团股份有限公司" ;
+    ex:officeAddress "河南省郑州市金水区文化路与北三环交叉口瀚海北金A座15楼" ;
+    ex:phone "86-0371-89913896" ;
+    ex:region "河南省" ;
+    ex:registeredCapital "8713万元" ;
+    ex:stockCode "830849" ;
+    ex:website "www.pyfb001.com" ;
+    ex:zipcode "450000" .
+
+<http://example.org/ontology/company/830865> a ex:Company ;
+    ex:actualController "马春欣" ;
+    ex:ceo "马春欣" ;
+    ex:chairman "马春欣" ;
+    ex:chairmanSecretary "梁莹" ;
+    ex:companyName "广州南菱汽车股份有限公司" ;
+    ex:employeeCount "2793" ;
+    ex:englishName "Guangzhou Nanling Automobile Co., Ltd." ;
+    ex:fax "86-020-28806767" ;
+    ex:finalController "马春欣" ;
+    ex:industry "交运设备 — 交运设备服务" ;
+    ex:legalRepresentative "马春欣" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/830865.png" ;
+    ex:mainBusiness "汽车销售、汽车维修、汽车配件销售以及汽车保险代理业务。" ;
+    ex:majorShareholder "马春欣" ;
+    ex:officeAddress "广东省广州市白云区白云大道北1399号" ;
+    ex:phone "86-020-28806776" ;
+    ex:region "广东省" ;
+    ex:registeredCapital "1.43亿元" ;
+    ex:stockCode "830865" ;
+    ex:website "www.nanling.com.cn" ;
+    ex:zipcode "510440" .
+
+<http://example.org/ontology/company/830874> a ex:Company ;
+    ex:actualController "安玉森、秦迥舟" ;
+    ex:ceo "安玉森" ;
+    ex:chairman "安玉森" ;
+    ex:chairmanSecretary "朱鸿斌" ;
+    ex:companyName "无锡金田元丰科技股份有限公司" ;
+    ex:employeeCount "50" ;
+    ex:englishName "Wuxi Jintian Yuanfeng Sci.Tech. Inc., Ltd." ;
+    ex:fax "86-0510-85430819" ;
+    ex:finalController "安玉森、秦迥舟" ;
+    ex:industry "机械设备 — 通用机械" ;
+    ex:legalRepresentative "安玉森" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/830874.png" ;
+    ex:mainBusiness "高精密冷冲模具和塑料模具的设计与制造，同时生产各类高精密机械零件及相关工装夹具、自动化设备等" ;
+    ex:majorShareholder "安玉森、秦迥舟" ;
+    ex:officeAddress "江苏省无锡市滨湖区锡兴北路5号" ;
+    ex:phone "86-0510-81132300-805" ;
+    ex:region "江苏省" ;
+    ex:registeredCapital "2679万元" ;
+    ex:stockCode "830874" ;
+    ex:website "www.wxjtyf.com" ;
+    ex:zipcode "214028" .
+
+<http://example.org/ontology/company/831335> a ex:Company ;
+    ex:ceo "王立东" ;
+    ex:chairman "迟敏" ;
+    ex:chairmanSecretary "迟敏" ;
+    ex:companyName "时空客集团股份有限公司" ;
+    ex:employeeCount "6" ;
+    ex:englishName "Shikongke Group Co., Ltd" ;
+    ex:fax "86-0411-39644477" ;
+    ex:industry "信息服务 — 传媒" ;
+    ex:legalRepresentative "迟敏" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/831335.png" ;
+    ex:mainBusiness "户外广告发布与广告发布权出租、DM报纸广告发布、广告策划与制作服务、互联网信息服务、车载电视广告发布" ;
+    ex:officeAddress "辽宁省大连市沙河口区高新技术产业园区黄浦路541号8层809室" ;
+    ex:phone "86-0411-82755487" ;
+    ex:region "辽宁省" ;
+    ex:registeredCapital "5868.78万元" ;
+    ex:stockCode "831335" ;
+    ex:website "www.skkx.com.cn" ;
+    ex:zipcode "116023" .
+
+<http://example.org/ontology/company/831336> a ex:Company ;
+    ex:ceo "刘文成" ;
+    ex:chairman "韩兴旺" ;
+    ex:chairmanSecretary "何道明" ;
+    ex:companyName "江苏苏丝丝绸股份有限公司" ;
+    ex:employeeCount "639" ;
+    ex:englishName "Jiangsu Susi Silk Joint Stock Co.,Ltd" ;
+    ex:fax "86-0527-85293748" ;
+    ex:industry "纺织服装 — 纺织制造" ;
+    ex:legalRepresentative "韩兴旺" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/831336.png" ;
+    ex:mainBusiness "桑蚕丝家纺、服饰、绢丝及纺织产品的加工、生产、销售等。" ;
+    ex:majorShareholder "江苏泗绢集团有限公司" ;
+    ex:officeAddress "江苏省宿迁市泗阳县淮海东路29号" ;
+    ex:phone "86-0527-85191909" ;
+    ex:region "江苏省" ;
+    ex:registeredCapital "1.06亿元" ;
+    ex:stockCode "831336" ;
+    ex:website "www.spcc-silk.com" ;
+    ex:zipcode "223700" .
+
+<http://example.org/ontology/company/831420> a ex:Company ;
+    ex:actualController "刘剑洵" ;
+    ex:ceo "石刚" ;
+    ex:chairman "石刚" ;
+    ex:chairmanSecretary "杨明燕" ;
+    ex:companyName "北京北信得实科技股份有限公司" ;
+    ex:employeeCount "59" ;
+    ex:englishName "Beijing Beixindeshi Technology Co.,Ltd" ;
+    ex:fax "86-010-82056685" ;
+    ex:finalController "刘剑洵" ;
+    ex:industry "信息服务 — 计算机应用" ;
+    ex:legalRepresentative "石刚" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/831420.png" ;
+    ex:mainBusiness "为医疗卫生行业信息化建设提供整合健康平台化解决方案与运营服务解决方案及相关产品。" ;
+    ex:majorShareholder "刘剑洵" ;
+    ex:officeAddress "北京市西城区德胜门外大街11号18幢609室" ;
+    ex:phone "86-013718512395" ;
+    ex:region "北京市" ;
+    ex:registeredCapital "2600万元" ;
+    ex:stockCode "831420" ;
+    ex:website "www.bts.bj.cn" ;
+    ex:zipcode "100088" .
+
+<http://example.org/ontology/company/831439> a ex:Company ;
+    ex:actualController "张洪欣" ;
+    ex:ceo "徐建强" ;
+    ex:chairman "徐建强" ;
+    ex:chairmanSecretary "李康" ;
+    ex:companyName "中喜生态产业股份有限公司" ;
+    ex:employeeCount "45" ;
+    ex:englishName "China Happy Ecology Industrial Co.,Ltd." ;
+    ex:fax "86-0543-5162578" ;
+    ex:finalController "张洪欣" ;
+    ex:industry "农林牧渔 — 种植业与林业" ;
+    ex:legalRepresentative "徐建强" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/831439.png" ;
+    ex:mainBusiness "苗木研发、培育及销售" ;
+    ex:majorShareholder "中谷农业投资有限公司" ;
+    ex:officeAddress "山东省滨州市滨城区黄河五路352号中喜国际金融中心" ;
+    ex:phone "86-0543-5099888" ;
+    ex:region "山东省" ;
+    ex:registeredCapital "2.4亿元" ;
+    ex:stockCode "831439" ;
+    ex:website "www.zhongxishengtai.com" ;
+    ex:zipcode "256600" .
+
+<http://example.org/ontology/company/831492> a ex:Company ;
+    ex:actualController "韩吉书、张晓林" ;
+    ex:ceo "韩吉书" ;
+    ex:chairman "韩吉书" ;
+    ex:chairmanSecretary "朱金涛" ;
+    ex:companyName "山东安信种苗股份有限公司" ;
+    ex:employeeCount "144" ;
+    ex:englishName "Shandong Anxicense Seedling Co., Ltd." ;
+    ex:fax "86-0531-84362298" ;
+    ex:finalController "韩吉书、张晓林" ;
+    ex:industry "农林牧渔 — 种植业与林业" ;
+    ex:legalRepresentative "韩吉书" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/831492.png" ;
+    ex:mainBusiness "种苗繁育、研发、生产、销售" ;
+    ex:majorShareholder "韩吉书" ;
+    ex:officeAddress "山东省济南市济阳区垛石镇王洼村(现代农业科技示范园内)" ;
+    ex:phone "86-0531-84362298" ;
+    ex:region "山东省" ;
+    ex:registeredCapital "5628万元" ;
+    ex:stockCode "831492" ;
+    ex:website "www.ax517.com" ;
+    ex:zipcode "251400" .
+
+<http://example.org/ontology/company/831507> a ex:Company ;
+    ex:actualController "宋军保、宋海玉" ;
+    ex:ceo "沈祝兵" ;
+    ex:chairmanSecretary "吕少杰" ;
+    ex:companyName "博广环保技术股份有限公司" ;
+    ex:employeeCount "192" ;
+    ex:englishName "Boguang Environmental Technology Co.,Ltd" ;
+    ex:fax "86-0311-85830382;86-0311-85830381" ;
+    ex:finalController "宋军保、宋海玉" ;
+    ex:industry "公用事业 — 环保工程及服务" ;
+    ex:legalRepresentative "宋军保" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/831507.png" ;
+    ex:mainBusiness "节能环保工业窑炉的设计、建设、运营及相关技术服务" ;
+    ex:majorShareholder "宋军保、宋海玉" ;
+    ex:officeAddress "河北省石家庄市裕华区高新技术开发区湘江道319号" ;
+    ex:phone "86-0311-68021356" ;
+    ex:region "河北省" ;
+    ex:registeredCapital "8218万元" ;
+    ex:stockCode "831507" ;
+    ex:website "www.bogrn.com" ;
+    ex:zipcode "050035" .
+
+<http://example.org/ontology/company/831752> a ex:Company ;
+    ex:actualController "杨再祥" ;
+    ex:ceo "杨再祥" ;
+    ex:chairman "杨再祥" ;
+    ex:companyName "贵州蓝图新材料股份有限公司" ;
+    ex:employeeCount "79" ;
+    ex:englishName "Guizhou Lantu New Material Co.,Ltd" ;
+    ex:fax "86-0851-85406692" ;
+    ex:finalController "杨再祥" ;
+    ex:industry "建筑材料 — 其他建材" ;
+    ex:legalRepresentative "杨再祥" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/831752.png" ;
+    ex:mainBusiness "拥有自主知识产权的磷石膏绿色生态PGPC装配式建筑体系及产品的生产和销售" ;
+    ex:majorShareholder "杨再祥" ;
+    ex:officeAddress "贵州省贵阳市南明区双龙航空港经济区食品工业园区地块A-22、A-23、A-24" ;
+    ex:phone "86-018798888611" ;
+    ex:region "贵州省" ;
+    ex:registeredCapital "5600万元" ;
+    ex:stockCode "831752" ;
+    ex:website "www.gzlantu.com" ;
+    ex:zipcode "550005" .
+
+<http://example.org/ontology/company/831930> a ex:Company ;
+    ex:actualController "王明富" ;
+    ex:ceo "许地长" ;
+    ex:chairman "王明富" ;
+    ex:chairmanSecretary "李鹏飞" ;
+    ex:companyName "北京和君商学在线科技股份有限公司" ;
+    ex:employeeCount "144" ;
+    ex:englishName "Beijing Hejun Digital Learning Co.,Ltd" ;
+    ex:fax "86-010-84108899" ;
+    ex:finalController "王明富" ;
+    ex:industry "综合 — 综合" ;
+    ex:legalRepresentative "王明富" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/831930.png" ;
+    ex:mainBusiness "企业管理培训" ;
+    ex:majorShareholder "和君集团有限公司" ;
+    ex:officeAddress "北京市东城区后永康胡同17号6号楼D201号,北京市朝阳区北苑路86号院213栋楼" ;
+    ex:phone "86-010-84108995;86-010-84108866" ;
+    ex:region "北京市" ;
+    ex:registeredCapital "3亿元" ;
+    ex:stockCode "831930" ;
+    ex:website "www.ehejun.com" ;
+    ex:zipcode "100101" .
+
+<http://example.org/ontology/company/832029> a ex:Company ;
+    ex:actualController "单俊凤" ;
+    ex:ceo "单俊凤" ;
+    ex:chairman "单俊凤" ;
+    ex:chairmanSecretary "郑艳波" ;
+    ex:companyName "潍坊金正食品股份有限公司" ;
+    ex:employeeCount "411" ;
+    ex:englishName "Weifang Jinzheng Food Co., Ltd." ;
+    ex:fax "86-0536-5403989" ;
+    ex:finalController "单俊凤" ;
+    ex:industry "农林牧渔 — 畜禽养殖" ;
+    ex:legalRepresentative "单俊凤" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/832029.png" ;
+    ex:mainBusiness "樱桃谷肉鸭的种鸭养殖、鸭苗孵化、饲料加工、屠宰加工、冷藏销售。" ;
+    ex:majorShareholder "单俊凤" ;
+    ex:officeAddress "山东省潍坊市寿光市营里镇南大路道口段" ;
+    ex:phone "86-0536-5403989" ;
+    ex:region "山东省" ;
+    ex:registeredCapital "1.68亿元" ;
+    ex:stockCode "832029" ;
+    ex:website "--" ;
+    ex:zipcode "262717" .
+
+<http://example.org/ontology/company/832318> a ex:Company ;
+    ex:actualController "天津市交通集团有限公司" ;
+    ex:ceo "梁天宇" ;
+    ex:chairman "梁天宇" ;
+    ex:chairmanSecretary "张晓红" ;
+    ex:companyName "天津市广通信息技术工程股份有限公司" ;
+    ex:employeeCount "22" ;
+    ex:englishName "Tianjin Guangtong Information Technology Engineering Co.Ltd." ;
+    ex:fax "86-022-23855932" ;
+    ex:finalController "天津市国资委" ;
+    ex:industry "计算机 — 计算机应用" ;
+    ex:legalRepresentative "梁天宇" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/832318.png" ;
+    ex:mainBusiness "提供GIS平台软硬件的技术服务、代理销售服务、车联网大数据信息服务。" ;
+    ex:majorShareholder "天津市交通集团有限公司" ;
+    ex:officeAddress "天津市西青区滨海高新区华苑产业区(环外)海泰发展六道3号星企中心园区厂房5二层西侧" ;
+    ex:phone "86-022-23855932" ;
+    ex:region "天津市" ;
+    ex:registeredCapital "510万元" ;
+    ex:stockCode "832318" ;
+    ex:website "--" ;
+    ex:zipcode "300392" .
+
+<http://example.org/ontology/company/832404> a ex:Company ;
+    ex:actualController "孙邦祥、鲁小英" ;
+    ex:ceo "李刚" ;
+    ex:chairman "孙邦祥" ;
+    ex:chairmanSecretary "叶慧" ;
+    ex:companyName "江西兴邦光电股份有限公司" ;
+    ex:employeeCount "312" ;
+    ex:englishName "Jiangxi Xingbang Optics&Electric Co.,Ltd" ;
+    ex:fax "86-0797-3396059" ;
+    ex:finalController "孙邦祥、鲁小英" ;
+    ex:industry "电子 — 光学光电子" ;
+    ex:legalRepresentative "孙邦祥" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/832404.png" ;
+    ex:mainBusiness "塑胶光学镜头的设计、开发、生产和销售" ;
+    ex:majorShareholder "孙邦祥、鲁小英" ;
+    ex:officeAddress "江西省赣州市信丰县工业园区诚信大道西侧" ;
+    ex:phone "86-0797-3396097" ;
+    ex:region "江西省" ;
+    ex:registeredCapital "2370万元" ;
+    ex:stockCode "832404" ;
+    ex:website "www.china-xb.com" ;
+    ex:zipcode "341600" .
+
+<http://example.org/ontology/company/833356> a ex:Company ;
+    ex:actualController "李明勇、傅小平" ;
+    ex:ceo "李明勇" ;
+    ex:chairman "李明勇" ;
+    ex:chairmanSecretary "李海霞" ;
+    ex:companyName "浙江瑞虹机电股份有限公司" ;
+    ex:employeeCount "153" ;
+    ex:englishName "Zhejiang Ruihong Electrical Limited By Share Ltd In Translation" ;
+    ex:fax "86-0572-6873999" ;
+    ex:finalController "李明勇、傅小平" ;
+    ex:industry "交运设备 — 汽车零部件" ;
+    ex:legalRepresentative "李明勇" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/833356.png" ;
+    ex:mainBusiness "从事汽车空调离合器线圈壳体的生产和销售。" ;
+    ex:majorShareholder "李明勇" ;
+    ex:officeAddress "浙江省湖州市长兴县林城镇工业集中区瑞虹路一号" ;
+    ex:phone "86-0572-6293629" ;
+    ex:region "浙江省" ;
+    ex:registeredCapital "2500万元" ;
+    ex:stockCode "833356" ;
+    ex:website "www.zjruihong.com" ;
+    ex:zipcode "313112" .
+
+<http://example.org/ontology/company/833518> a ex:Company ;
+    ex:actualController "艾路明" ;
+    ex:ceo "江曦" ;
+    ex:chairman "黄建华" ;
+    ex:chairmanSecretary "邓文涛" ;
+    ex:companyName "湖北人福药用辅料股份有限公司" ;
+    ex:employeeCount "175" ;
+    ex:englishName "Hubei Humanwell Pharmaceutical Excipients Co., Ltd." ;
+    ex:fax "86-0715-5368117" ;
+    ex:finalController "艾路明" ;
+    ex:industry "医药生物 — 医疗器械服务" ;
+    ex:legalRepresentative "黄建华" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/833518.png" ;
+    ex:mainBusiness "药用空心胶囊产品的研发、制造、销售和服务" ;
+    ex:majorShareholder "人福医药集团股份公司" ;
+    ex:officeAddress "湖北省咸宁市赤壁市赤壁大道1269号" ;
+    ex:phone "86-0715-5368137" ;
+    ex:region "湖北省" ;
+    ex:registeredCapital "1961万元" ;
+    ex:stockCode "833518" ;
+    ex:website "www.rfyfgf.com" ;
+    ex:zipcode "437300" .
+
+<http://example.org/ontology/company/833779> a ex:Company ;
+    ex:actualController "王令杰" ;
+    ex:ceo "王令杰" ;
+    ex:chairman "王令杰" ;
+    ex:companyName "深圳市奥科斯特智能装备股份有限公司" ;
+    ex:employeeCount "89" ;
+    ex:englishName "Shenzhen Okast Intelligent Equipment Co.,Ltd" ;
+    ex:fax "86-0755-86001033" ;
+    ex:finalController "王令杰" ;
+    ex:industry "机械设备 — 专用设备" ;
+    ex:legalRepresentative "王令杰" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/833779.png" ;
+    ex:mainBusiness "为客户提供完整的智能自动化解决方案，以及相关配套非标设备、智能装置和机器人的设计、研发、制造、安装、调试、销售与服务。" ;
+    ex:majorShareholder "王令杰" ;
+    ex:officeAddress "广东省深圳市宝安区福永街道新田大道71-2号B栋第一层" ;
+    ex:phone "86-0755-86000788-811" ;
+    ex:region "广东省" ;
+    ex:registeredCapital "2345万元" ;
+    ex:stockCode "833779" ;
+    ex:website "www.okast.com" ;
+    ex:zipcode "518013" .
+
+<http://example.org/ontology/company/834359> a ex:Company ;
+    ex:actualController "吴炜、邢正江" ;
+    ex:ceo "吴炜" ;
+    ex:chairman "吴炜" ;
+    ex:companyName "山东金色童年股份有限公司" ;
+    ex:employeeCount "59" ;
+    ex:englishName "Shandong Golden Childhood Co.,Ltd" ;
+    ex:fax "86-0531-61367576" ;
+    ex:finalController "吴炜、邢正江" ;
+    ex:industry "信息服务 — 传媒" ;
+    ex:legalRepresentative "吴炜" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/834359.png" ;
+    ex:mainBusiness "儿童影像拍摄、直营店运营、加盟连锁体系运营及培训、影像产品设计与加工及品牌运营等全产业链经营模式的连锁体系运营业务。" ;
+    ex:majorShareholder "吴炜" ;
+    ex:officeAddress "山东省济南市历下区趵北路6号蓝石商务中心416室" ;
+    ex:phone "86-0531-67895000" ;
+    ex:region "山东省" ;
+    ex:registeredCapital "1589万元" ;
+    ex:stockCode "834359" ;
+    ex:website "www.jstn.com.cn" ;
+    ex:zipcode "250011" .
+
+<http://example.org/ontology/company/834440> a ex:Company ;
+    ex:actualController "向一民、张荷" ;
+    ex:ceo "周宏军" ;
+    ex:chairman "向一民" ;
+    ex:chairmanSecretary "周媚娟" ;
+    ex:companyName "江苏怡丽科姆新材料股份有限公司" ;
+    ex:employeeCount "107" ;
+    ex:englishName "Yilikim New Materials Co.,Ltd" ;
+    ex:fax "86-0514-80861919" ;
+    ex:finalController "向一民、张荷" ;
+    ex:industry "电子 — 光学光电子" ;
+    ex:legalRepresentative "向一民" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/834440.png" ;
+    ex:mainBusiness "从事光学级功能性聚酯薄膜的研发、生产与销售" ;
+    ex:majorShareholder "仪征升阳投资管理有限公司" ;
+    ex:officeAddress "江苏省扬州市仪征市汽车工业园东区5号路西侧" ;
+    ex:phone "86-0514-89371759" ;
+    ex:region "江苏省" ;
+    ex:registeredCapital "3565万元" ;
+    ex:stockCode "834440" ;
+    ex:website "www.yilikim.com" ;
+    ex:zipcode "211400" .
+
+<http://example.org/ontology/company/834926> a ex:Company ;
+    ex:actualController "米渝" ;
+    ex:ceo "刘涛" ;
+    ex:chairman "米渝" ;
+    ex:companyName "四川安杰信科技股份有限公司" ;
+    ex:employeeCount "152" ;
+    ex:englishName "Sichuan Engine Technology.,Ltd." ;
+    ex:fax "86-028-85330377" ;
+    ex:finalController "米渝" ;
+    ex:industry "信息服务 — 计算机应用" ;
+    ex:legalRepresentative "米渝" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/834926.png" ;
+    ex:mainBusiness "信息系统集成服务" ;
+    ex:majorShareholder "米渝" ;
+    ex:officeAddress "四川省成都市武侯区高新区天华一路99号天府软件园B区2栋3楼302号" ;
+    ex:phone "86-028-85330444" ;
+    ex:region "四川省" ;
+    ex:registeredCapital "1933.2万元" ;
+    ex:stockCode "834926" ;
+    ex:website "www.scengine.com" ;
+    ex:zipcode "610014" .
+
+<http://example.org/ontology/company/835133> a ex:Company ;
+    ex:actualController "施连忠、林爱月" ;
+    ex:ceo "施连忠" ;
+    ex:chairman "施连忠" ;
+    ex:chairmanSecretary "王震" ;
+    ex:companyName "双龙集团上海防爆电机盐城股份有限公司" ;
+    ex:employeeCount "293" ;
+    ex:englishName "Shanghai Explosion Proof Motor Yancheng Corp.,Ltd Shuanglong Group" ;
+    ex:fax "86-0515-68668083" ;
+    ex:finalController "施连忠、林爱月" ;
+    ex:industry "电气设备 — 电机" ;
+    ex:legalRepresentative "施连忠" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/835133.png" ;
+    ex:mainBusiness "普通用途低压高效三相异步电动机、隔爆型低压三相异步电动机、普通用途高压高效高压三相异步电动机、隔爆型矿用三相异步电动机、隔爆型高压三相异步电动机等电动机的设计、制造、销售及产品服务。" ;
+    ex:majorShareholder "施连忠" ;
+    ex:officeAddress "江苏省盐城市亭湖区经济开发区希望大道南路56号" ;
+    ex:phone "86-0515-68668083" ;
+    ex:region "江苏省" ;
+    ex:registeredCapital "6516.67万元" ;
+    ex:stockCode "835133" ;
+    ex:website "www.shfbdj.com" ;
+    ex:zipcode "224007" .
+
+<http://example.org/ontology/company/835186> a ex:Company ;
+    ex:actualController "茆顺明、沈先玉" ;
+    ex:ceo "茆顺明(代)" ;
+    ex:chairman "茆顺明" ;
+    ex:companyName "上海诺诚电气股份有限公司" ;
+    ex:employeeCount "150" ;
+    ex:englishName "Shanghai Ncc Electronic Co., Ltd." ;
+    ex:fax "86-021-51029700-1005" ;
+    ex:finalController "茆顺明、沈先玉" ;
+    ex:industry "医药生物 — 医疗器械Ⅱ" ;
+    ex:legalRepresentative "茆顺明" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/835186.png" ;
+    ex:mainBusiness "计算机软硬件的开发,仪器仪表、电子元器件的销售,Ⅱ类6821医用电子仪器设备的生产。" ;
+    ex:majorShareholder "茆顺明、沈先玉" ;
+    ex:officeAddress "上海市闵行区南沙路68号" ;
+    ex:phone "86-021-51029700" ;
+    ex:region "上海市" ;
+    ex:registeredCapital "2961.75万元" ;
+    ex:stockCode "835186" ;
+    ex:website "www.cnnation.com" ;
+    ex:zipcode "200245" .
+
+<http://example.org/ontology/company/836160> a ex:Company ;
+    ex:actualController "李彦红、任俊章" ;
+    ex:ceo "李彦红" ;
+    ex:chairman "李彦红" ;
+    ex:chairmanSecretary "阎科" ;
+    ex:companyName "河南亿博科技股份有限公司" ;
+    ex:employeeCount "220" ;
+    ex:englishName "Henan Yibo Technology Co.,Ltd." ;
+    ex:fax "86-0395-3287655" ;
+    ex:finalController "李彦红、任俊章" ;
+    ex:industry "化工 — 化工合成材料" ;
+    ex:legalRepresentative "李彦红" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/836160.png" ;
+    ex:mainBusiness "橡胶液压软管的研发、生产和销售" ;
+    ex:majorShareholder "李彦红" ;
+    ex:officeAddress "河南省漯河市召陵区阳山路11号" ;
+    ex:phone "86-0395-3287688" ;
+    ex:region "河南省" ;
+    ex:registeredCapital "5060万元" ;
+    ex:stockCode "836160" ;
+    ex:website "www.zgybxj.com" ;
+    ex:zipcode "462000" .
+
+<http://example.org/ontology/company/836487> a ex:Company ;
+    ex:actualController "陈业钢、陈漫漫" ;
+    ex:ceo "陈业钢" ;
+    ex:chairman "陈业钢" ;
+    ex:chairmanSecretary "李娟芬" ;
+    ex:companyName "上海东硕环保科技股份有限公司" ;
+    ex:employeeCount "120" ;
+    ex:englishName "Shanghai Denovo Environment Protection Co., Ltd." ;
+    ex:fax "86-021-31269579-888" ;
+    ex:finalController "陈业钢、陈漫漫" ;
+    ex:industry "公用事业 — 环保工程及服务" ;
+    ex:legalRepresentative "陈业钢" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/836487.png" ;
+    ex:mainBusiness "为煤化工、钢铁、石化、制药、造纸等行业的大型工业项目提供水处理综合服务" ;
+    ex:majorShareholder "陈业钢" ;
+    ex:officeAddress "上海市徐汇区田林路487号20号1109室" ;
+    ex:phone "86-021-31269579" ;
+    ex:region "上海市" ;
+    ex:registeredCapital "1.06亿元" ;
+    ex:stockCode "836487" ;
+    ex:website "www.denovogroup.com.cn" ;
+    ex:zipcode "200233" .
+
+<http://example.org/ontology/company/836635> a ex:Company ;
+    ex:actualController "杨德盛、孙玉兰" ;
+    ex:ceo "杨德盛" ;
+    ex:chairman "杨德盛" ;
+    ex:chairmanSecretary "杨林" ;
+    ex:companyName "山东大宏智能设备股份有限公司" ;
+    ex:employeeCount "60" ;
+    ex:englishName "Shandong Dyehome Intelligent Equipment Co.,Ltd" ;
+    ex:fax "86-0531-85600829" ;
+    ex:finalController "杨德盛、孙玉兰" ;
+    ex:industry "机械设备 — 专用设备" ;
+    ex:legalRepresentative "杨德盛" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/836635.png" ;
+    ex:mainBusiness "包装设备的研发、制造，包装材料的销售及立体车库框架加工" ;
+    ex:majorShareholder "杨德盛" ;
+    ex:officeAddress "山东省济南市槐荫区清河北路新沙工业园南区2街1号" ;
+    ex:phone "86-0531-85600091" ;
+    ex:region "山东省" ;
+    ex:registeredCapital "700万元" ;
+    ex:stockCode "836635" ;
+    ex:website "www.packdahong.com" ;
+    ex:zipcode "250000" .
+
+<http://example.org/ontology/company/836694> a ex:Company ;
+    ex:actualController "黄伟军" ;
+    ex:ceo "付飞泉" ;
+    ex:chairman "黄伟军" ;
+    ex:chairmanSecretary "周伟" ;
+    ex:companyName "深圳家电网科技实业股份有限公司" ;
+    ex:employeeCount "136" ;
+    ex:englishName "Shenzhen Jiadianwang Technology Industrial Co.,Ltd." ;
+    ex:fax "86-0755-86253002" ;
+    ex:finalController "黄伟军" ;
+    ex:industry "商业贸易 — 零售" ;
+    ex:legalRepresentative "黄伟军" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/836694.png" ;
+    ex:mainBusiness "通过运营公司自主研发的电商网络平台,以B2C、O2O等模式进行家电商品的销售及售后服务。" ;
+    ex:majorShareholder "黄伟军" ;
+    ex:officeAddress "广东省深圳市南山区东滨路4269号中泰天成大楼13楼" ;
+    ex:phone "86-0755-86263651" ;
+    ex:region "广东省" ;
+    ex:registeredCapital "5890.2万元" ;
+    ex:stockCode "836694" ;
+    ex:website "www.1wandian.com" ;
+    ex:zipcode "518054" .
+
+<http://example.org/ontology/company/837428> a ex:Company ;
+    ex:actualController "苏黎晖、连庆达" ;
+    ex:ceo "陈启明" ;
+    ex:chairmanSecretary "游秀芳" ;
+    ex:companyName "厦门元初食品股份有限公司" ;
+    ex:employeeCount "827" ;
+    ex:englishName "Xiamen Sungiven Foods Holding Ltd." ;
+    ex:fax "86-0592-5528568" ;
+    ex:finalController "苏黎晖、连庆达" ;
+    ex:industry "商业贸易 — 零售" ;
+    ex:legalRepresentative "陈启明" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/837428.png" ;
+    ex:mainBusiness "以连锁超市为载体的食品门店零售业务、食品进出口业务、电子商务等" ;
+    ex:officeAddress "福建省厦门市思明区宜兰路7号虎都世纪大厦24层01、02单元" ;
+    ex:phone "86-0592-5583308" ;
+    ex:region "福建省" ;
+    ex:registeredCapital "1.03亿元" ;
+    ex:stockCode "837428" ;
+    ex:website "www.sungivenfoods.com" ;
+    ex:zipcode "361008" .
+
+<http://example.org/ontology/company/837492> a ex:Company ;
+    ex:actualController "张静" ;
+    ex:ceo "张静" ;
+    ex:chairman "凌立" ;
+    ex:chairmanSecretary "李丹" ;
+    ex:companyName "北京大陆桥文化传媒股份有限公司" ;
+    ex:employeeCount "111" ;
+    ex:englishName "Beijing Continental Bridge Corporation Group Ltd." ;
+    ex:fax "86-010-82023008" ;
+    ex:finalController "张静" ;
+    ex:industry "传媒 — 文化传媒" ;
+    ex:legalRepresentative "张静" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/837492.png" ;
+    ex:mainBusiness "纪录片、纪录片栏目、真人秀等非虚构类影视节目创作和运营发行等业务" ;
+    ex:majorShareholder "张静" ;
+    ex:officeAddress "北京市朝阳区安定路1号奥体中心综合训练馆三层" ;
+    ex:phone "86-010-82022266" ;
+    ex:region "北京市" ;
+    ex:registeredCapital "4800万元" ;
+    ex:stockCode "837492" ;
+    ex:website "www.lic-bcbc.com" ;
+    ex:zipcode "100029" .
+
+<http://example.org/ontology/company/837652> a ex:Company ;
+    ex:actualController "张玉杰、原春玲" ;
+    ex:ceo "张玉杰" ;
+    ex:chairmanSecretary "张慧" ;
+    ex:companyName "太原化兴化工运销股份有限公司" ;
+    ex:employeeCount "75" ;
+    ex:englishName "-" ;
+    ex:fax "86-0351-6322528" ;
+    ex:finalController "张玉杰、原春玲" ;
+    ex:industry "商业贸易 — 贸易" ;
+    ex:legalRepresentative "张玉杰" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/837652.png" ;
+    ex:mainBusiness "危险化学品的运输和经销业务，以及提供危化品事故的应急救援服务" ;
+    ex:majorShareholder "张玉杰" ;
+    ex:officeAddress "山西省太原市晋源区冶峪工业园区8号" ;
+    ex:phone "86-0351-6322528" ;
+    ex:region "山西省" ;
+    ex:registeredCapital "1000万元" ;
+    ex:stockCode "837652" ;
+    ex:website "www.tyhxhg.cn" ;
+    ex:zipcode "030021" .
+
+<http://example.org/ontology/company/837656> a ex:Company ;
+    ex:actualController "曾尚成" ;
+    ex:ceo "赵永彬" ;
+    ex:chairman "曾尚成" ;
+    ex:chairmanSecretary "余汪酉" ;
+    ex:companyName "四川瑞宝电子股份有限公司" ;
+    ex:employeeCount "435" ;
+    ex:englishName "Sichuan Rainbow Electronics Corp., Ltd" ;
+    ex:fax "86-0825-2333234" ;
+    ex:finalController "曾尚成" ;
+    ex:industry "电子 — 电子制造" ;
+    ex:legalRepresentative "曾尚成" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/837656.png" ;
+    ex:mainBusiness "电子连接器及相关产品的研发、生产和销售。" ;
+    ex:officeAddress "四川省遂宁市船山区经济技术开发区玉龙路微电子工业园88号" ;
+    ex:phone "86-0825-2333123" ;
+    ex:region "四川省" ;
+    ex:registeredCapital "6000万元" ;
+    ex:stockCode "837656" ;
+    ex:website "www.rainbow-gp.com" ;
+    ex:zipcode "629000" .
+
+<http://example.org/ontology/company/837716> a ex:Company ;
+    ex:actualController "周春林、杨刚" ;
+    ex:ceo "杨刚" ;
+    ex:chairman "周春林" ;
+    ex:chairmanSecretary "杨刚" ;
+    ex:companyName "北京博鹏北科节能环保股份有限公司" ;
+    ex:employeeCount "12" ;
+    ex:englishName "Beijing Bobon Bestech Energy Conservation &Environmental Protection Co., Ltd." ;
+    ex:fax "86-010-82573538" ;
+    ex:finalController "周春林、杨刚" ;
+    ex:industry "公用事业 — 环保工程及服务" ;
+    ex:legalRepresentative "周春林" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/837716.png" ;
+    ex:mainBusiness "冶金行业的烟尘治理" ;
+    ex:majorShareholder "周春林" ;
+    ex:officeAddress "北京市海淀区学院路30号1区方兴大厦十层东侧1001室" ;
+    ex:phone "86-010-82573538" ;
+    ex:region "北京市" ;
+    ex:registeredCapital "1600万元" ;
+    ex:stockCode "837716" ;
+    ex:website "www.bpbk.com.cn" ;
+    ex:zipcode "100083" .
+
+<http://example.org/ontology/company/837828> a ex:Company ;
+    ex:actualController "赵郑、段小霞" ;
+    ex:ceo "段小霞" ;
+    ex:chairman "段小霞" ;
+    ex:chairmanSecretary "刘德恒" ;
+    ex:companyName "北京泽桥传媒科技股份有限公司" ;
+    ex:employeeCount "49" ;
+    ex:englishName "Beijing Zest Bridge Media Technology Co., Ltd" ;
+    ex:fax "86-010-53269095-821" ;
+    ex:finalController "赵郑、段小霞" ;
+    ex:industry "-" ;
+    ex:legalRepresentative "段小霞" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/837828.png" ;
+    ex:mainBusiness "广告代理服务、媒介服务、采买服务" ;
+    ex:majorShareholder "北京融华汇投资管理有限公司" ;
+    ex:officeAddress "北京市大兴区经济技术开发区荣华南路1号国税广场B座3903" ;
+    ex:phone "86-010-53269095" ;
+    ex:region "北京市" ;
+    ex:registeredCapital "1620万元" ;
+    ex:stockCode "837828" ;
+    ex:website "www.zeqiao.com" ;
+    ex:zipcode "100176" .
+
+<http://example.org/ontology/company/838388> a ex:Company ;
+    ex:actualController "王波、郭艳" ;
+    ex:ceo "王波" ;
+    ex:chairman "郭艳" ;
+    ex:chairmanSecretary "王斌" ;
+    ex:companyName "青岛凯能环保科技股份有限公司" ;
+    ex:employeeCount "168" ;
+    ex:englishName "Qingdao Kaineng Environmental Science And Technology Co., Ltd." ;
+    ex:fax "86-0532-82298328" ;
+    ex:finalController "王波、郭艳" ;
+    ex:industry "机械设备 — 通用设备" ;
+    ex:legalRepresentative "郭艳" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/838388.png" ;
+    ex:mainBusiness "提供烟气余热利用系统的整体解决方案；设计、制造与销售电厂低温省煤器、工业烟气余热锅炉、燃油燃气锅炉、船用锅炉、压力容器等节能环保设备及锅炉部件。" ;
+    ex:majorShareholder "王波、郭艳" ;
+    ex:officeAddress "山东省青岛市胶州市北关工业园贵州支路3号" ;
+    ex:phone "86-0532-82298318" ;
+    ex:region "山东省" ;
+    ex:registeredCapital "5060万元" ;
+    ex:stockCode "838388" ;
+    ex:website "www.kaineng.cn" ;
+    ex:zipcode "266300" .
+
+<http://example.org/ontology/company/838698> a ex:Company ;
+    ex:actualController "孙智敏、孙国良" ;
+    ex:ceo "郑罡" ;
+    ex:chairmanSecretary "郑罡" ;
+    ex:companyName "中海文旅设计研究(大连)有限公司" ;
+    ex:employeeCount "136" ;
+    ex:englishName "China Ocean Culture&Tourism (Dalian) Inc." ;
+    ex:fax "86-0411-84371829" ;
+    ex:finalController "孙智敏、孙国良" ;
+    ex:industry "建筑材料 — 建筑装饰" ;
+    ex:legalRepresentative "孙智敏" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/838698.png" ;
+    ex:mainBusiness "建筑设计、房屋安全鉴定、城乡规划编制" ;
+    ex:majorShareholder "孙智敏" ;
+    ex:officeAddress "辽宁省大连市甘井子区高新技术产业园区七贤岭亿阳路6号C座10层" ;
+    ex:phone "86-0411-84371399;86-0411-84371088" ;
+    ex:region "辽宁省" ;
+    ex:registeredCapital "1198.8万元" ;
+    ex:stockCode "838698" ;
+    ex:website "www.ucec.com.cn" ;
+    ex:zipcode "116085" .
+
+<http://example.org/ontology/company/838739> a ex:Company ;
+    ex:actualController "石岩、肖劲松" ;
+    ex:ceo "石岩" ;
+    ex:chairmanSecretary "杨帆" ;
+    ex:companyName "辽宁襄元堂医药股份有限公司" ;
+    ex:employeeCount "299" ;
+    ex:englishName "Liaoning Xiangyuantang Pharmaceutical Joint Stock Co.,Ltd." ;
+    ex:fax "86-0419-2250393" ;
+    ex:finalController "石岩、肖劲松" ;
+    ex:industry "医药生物 — 医药商业" ;
+    ex:legalRepresentative "石岩" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/838739.png" ;
+    ex:mainBusiness "药品、计生品、保健品、医疗器械、其他日用品等产品的零售" ;
+    ex:majorShareholder "石岩、肖劲松" ;
+    ex:officeAddress "辽宁省辽阳市太子河区荣兴路122号佰弘亿拓工业园" ;
+    ex:phone "86-0419-4120097" ;
+    ex:region "辽宁省" ;
+    ex:registeredCapital "1715万元" ;
+    ex:stockCode "838739" ;
+    ex:website "www.xytdyf.com" ;
+    ex:zipcode "111000" .
+
+<http://example.org/ontology/company/838766> a ex:Company ;
+    ex:actualController "郭庆莲、殷传贤、殷蕾、胡颖健" ;
+    ex:ceo "郭庆莲" ;
+    ex:chairman "郭庆莲" ;
+    ex:chairmanSecretary "殷蕾" ;
+    ex:companyName "镇江蓝舶科技股份有限公司" ;
+    ex:employeeCount "126" ;
+    ex:englishName "Zhenjiang Lanbo Technology Co.,Ltd" ;
+    ex:fax "86-0511-88808013" ;
+    ex:finalController "郭庆莲、殷传贤、殷蕾、胡颖健" ;
+    ex:industry "建筑材料 — 建筑装饰" ;
+    ex:legalRepresentative "郭庆莲" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/838766.png" ;
+    ex:mainBusiness "桥梁金属或非金属涂装与除湿防腐蚀系统一体化的设计、施工和管理。" ;
+    ex:majorShareholder "郭庆莲" ;
+    ex:officeAddress "江苏省镇江市京口区禹山路338号" ;
+    ex:phone "86-0511-88790388" ;
+    ex:region "江苏省" ;
+    ex:registeredCapital "5000万元" ;
+    ex:stockCode "838766" ;
+    ex:website "www.lan-bo.com" ;
+    ex:zipcode "212016" .
+
+<http://example.org/ontology/company/838915> a ex:Company ;
+    ex:ceo "饶高贤" ;
+    ex:chairman "饶高贤" ;
+    ex:chairmanSecretary "黄云峰" ;
+    ex:companyName "深圳市南和移动通信科技股份有限公司" ;
+    ex:employeeCount "215" ;
+    ex:englishName "Primatronix Nanhotechnology Ltd" ;
+    ex:fax "86-0755-84526252" ;
+    ex:industry "信息设备 — 通信设备" ;
+    ex:legalRepresentative "饶高贤" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/838915.png" ;
+    ex:mainBusiness "电子产品、数码产品、通讯产品的研发、生产和销售" ;
+    ex:majorShareholder "深圳市南和通讯实业有限公司" ;
+    ex:officeAddress "广东省深圳市龙岗区南湾街道布沙路100号南和公司厂房1栋3楼" ;
+    ex:phone "86-0755-28707333;86-013823516916" ;
+    ex:region "广东省" ;
+    ex:registeredCapital "1500万元" ;
+    ex:stockCode "838915" ;
+    ex:website "www.pmx-nanho.com" ;
+    ex:zipcode "518000" .
+
+<http://example.org/ontology/company/838943> a ex:Company ;
+    ex:actualController "赵伟东、赵卫明" ;
+    ex:ceo "林劲楠" ;
+    ex:chairman "赵伟东" ;
+    ex:chairmanSecretary "何坤" ;
+    ex:companyName "北京星震同源数字系统股份有限公司" ;
+    ex:employeeCount "282" ;
+    ex:englishName "Beijing Xingzhen Tongyuan Digital System Corp,Ltd" ;
+    ex:fax "86-010-82609736" ;
+    ex:finalController "赵伟东、赵卫明" ;
+    ex:industry "信息服务 — 计算机应用" ;
+    ex:legalRepresentative "赵伟东" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/838943.png" ;
+    ex:mainBusiness "数字化加工服务、数据安全节能存储服务、档案信息化软件、扫描设备和存储设备的研发和销售,以及与数据服务相关的系统集成业务。" ;
+    ex:officeAddress "北京市海淀区苏州街18号长远天地大厦4-1206室" ;
+    ex:phone "86-010-82609158" ;
+    ex:region "北京市" ;
+    ex:registeredCapital "5300万元" ;
+    ex:stockCode "838943" ;
+    ex:website "www.31415.com" ;
+    ex:zipcode "120610" .
+
+<http://example.org/ontology/company/839054> a ex:Company ;
+    ex:actualController "郑力" ;
+    ex:ceo "郑力" ;
+    ex:chairman "郑力" ;
+    ex:chairmanSecretary "饶杭州" ;
+    ex:companyName "江苏欣网科技股份有限公司" ;
+    ex:employeeCount "74" ;
+    ex:englishName "Jiangsu Xinwang Tech Co.,Ltd" ;
+    ex:fax "86-025-84669977" ;
+    ex:finalController "郑力" ;
+    ex:industry "信息服务 — 计算机应用" ;
+    ex:legalRepresentative "郑力" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/839054.png" ;
+    ex:mainBusiness "CPMIS项目和商务管理系统、MSS系统运营维护、业务平台信息汇聚及评估系统、电子渠道开放平台运营支撑等。" ;
+    ex:majorShareholder "郑力" ;
+    ex:officeAddress "江苏省南京市雨花台区软件大道11号花神大厦601" ;
+    ex:phone "86-025-84669977" ;
+    ex:region "江苏省" ;
+    ex:registeredCapital "1050万元" ;
+    ex:stockCode "839054" ;
+    ex:website "www.xwtech.com" ;
+    ex:zipcode "210000" .
+
+<http://example.org/ontology/company/839305> a ex:Company ;
+    ex:actualController "贾立民" ;
+    ex:ceo "贾立民" ;
+    ex:chairman "胡顺利" ;
+    ex:chairmanSecretary "许挺" ;
+    ex:companyName "浙江尼普顿科技股份有限公司" ;
+    ex:employeeCount "137" ;
+    ex:englishName "Zhejiang Neptune Technology Co.,Ltd." ;
+    ex:fax "86-0571-88369725" ;
+    ex:finalController "贾立民" ;
+    ex:industry "餐饮旅游 — 景点及旅游" ;
+    ex:legalRepresentative "贾立民" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/839305.png" ;
+    ex:mainBusiness "空调租赁、热水服务、空调销售" ;
+    ex:officeAddress "浙江省杭州市拱墅区详园路139号智慧立方科技中心1幢203" ;
+    ex:phone "86-0400-0007723" ;
+    ex:region "浙江省" ;
+    ex:registeredCapital "4000万元" ;
+    ex:stockCode "839305" ;
+    ex:website "www.zjnipudun.com" ;
+    ex:zipcode "310000" .
+
+<http://example.org/ontology/company/839421> a ex:Company ;
+    ex:actualController "伍中敏、甘维亚" ;
+    ex:ceo "伍中敏" ;
+    ex:chairman "伍中敏" ;
+    ex:companyName "四川金互通科技股份有限公司" ;
+    ex:employeeCount "50" ;
+    ex:englishName "Sichuan Jinhutong Technology Co.,Ltd." ;
+    ex:fax "86-0833-2440306" ;
+    ex:finalController "伍中敏、甘维亚" ;
+    ex:industry "信息服务 — 计算机应用" ;
+    ex:legalRepresentative "伍中敏" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/839421.png" ;
+    ex:mainBusiness "智慧政企、智慧城市等领域的软件开发和运营支撑" ;
+    ex:majorShareholder "伍中敏" ;
+    ex:officeAddress "四川省乐山市市中区高新区南新路20号国检中心2号楼5楼" ;
+    ex:phone "86-0833-2440306" ;
+    ex:region "四川省" ;
+    ex:registeredCapital "2000万元" ;
+    ex:stockCode "839421" ;
+    ex:website "www.jhtwl.com" ;
+    ex:zipcode "614000" .
+
+<http://example.org/ontology/company/839532> a ex:Company ;
+    ex:actualController "胡建雄、许良梅" ;
+    ex:ceo "邓丰生" ;
+    ex:chairman "胡建雄" ;
+    ex:chairmanSecretary "吴山亭" ;
+    ex:companyName "江苏建伟物流股份有限公司" ;
+    ex:employeeCount "109" ;
+    ex:englishName "Jiangsu Jumway Logistics Co., Ltd." ;
+    ex:fax "86-0512-55112215" ;
+    ex:finalController "胡建雄、许良梅" ;
+    ex:industry "交通运输 — 物流" ;
+    ex:legalRepresentative "邓丰生" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/839532.png" ;
+    ex:mainBusiness "国内道路货物运输服务和仓储装卸服务" ;
+    ex:majorShareholder "江苏建伟控股集团有限公司" ;
+    ex:officeAddress "江苏省苏州市昆山市周市镇339省道479号" ;
+    ex:phone "86-0512-50130867" ;
+    ex:region "江苏省" ;
+    ex:registeredCapital "2850万元" ;
+    ex:stockCode "839532" ;
+    ex:website "www.jumway.com.cn" ;
+    ex:zipcode "215314" .
+
+<http://example.org/ontology/company/839645> a ex:Company ;
+    ex:actualController "许运涛" ;
+    ex:ceo "许运涛" ;
+    ex:chairman "许运涛" ;
+    ex:chairmanSecretary "方秀俊" ;
+    ex:companyName "广州同方堂生物科技股份有限公司" ;
+    ex:employeeCount "96" ;
+    ex:englishName "Guangzhou Tongfangtang Biological Technology Co.Ltd" ;
+    ex:fax "86-020-3382314" ;
+    ex:finalController "许运涛" ;
+    ex:industry "商业贸易 — 贸易" ;
+    ex:legalRepresentative "许运涛" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/839645.png" ;
+    ex:mainBusiness "自有品牌“清一”面膜的设计及销售" ;
+    ex:majorShareholder "许运涛" ;
+    ex:officeAddress "广东省广州市天河区东莞庄路2号财润国际大厦1402/03室" ;
+    ex:phone "86-020-38780297" ;
+    ex:region "广东省" ;
+    ex:registeredCapital "500万元" ;
+    ex:stockCode "839645" ;
+    ex:website "www.qingyigz.com" ;
+    ex:zipcode "510610" .
+
+<http://example.org/ontology/company/839763> a ex:Company ;
+    ex:actualController "侯正宇" ;
+    ex:ceo "黄悦" ;
+    ex:chairmanSecretary "李志斌" ;
+    ex:companyName "苏州欧孚网络科技股份有限公司" ;
+    ex:employeeCount "85" ;
+    ex:englishName "Suzhou Offer Network Technology Co., Ltd." ;
+    ex:fax "86-0512-69580263" ;
+    ex:finalController "侯正宇" ;
+    ex:industry "信息服务 — 传媒" ;
+    ex:legalRepresentative "刘鹤君" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/839763.png" ;
+    ex:mainBusiness "人才招聘、服务外包。" ;
+    ex:majorShareholder "上海博尔捷人才服务有限公司" ;
+    ex:officeAddress "江苏省苏州市吴中区工业园区唯华路5号曼哈顿广场8幢君地大厦15楼" ;
+    ex:phone "86-0512-82190118" ;
+    ex:region "江苏省" ;
+    ex:registeredCapital "1092万元" ;
+    ex:stockCode "839763" ;
+    ex:website "www.9191offer.com" ;
+    ex:zipcode "215000" .
+
+<http://example.org/ontology/company/8481> a ex:Company ;
+    ex:companyName "盛龙锦秀国际有限公司" ;
+    ex:email "--" ;
+    ex:employeeCount "337" ;
+    ex:fax "86-0571-63802191;86-0571-63805083" ;
+    ex:industry "工业 - 工用支援 - 印刷及包装" ;
+    ex:mainBusiness "制造及销售装饰印刷材料产品,包括:装饰纸,三聚氰胺浸渍纸,油漆纸,PVC家具膜,及PVC地板膜。" ;
+    ex:phone "86-0571-63750061;86-0571-63802192;86-0571-63805081" ;
+    ex:stockCode "8481" .
+
+<http://example.org/ontology/company/870082> a ex:Company ;
+    ex:actualController "沈从伟" ;
+    ex:ceo "沈从伟" ;
+    ex:chairman "沈从伟" ;
+    ex:chairmanSecretary "葛健奇" ;
+    ex:companyName "浙江久灵早教用品科技股份有限公司" ;
+    ex:employeeCount "196" ;
+    ex:englishName "Zhejiang Jiu Ling Early Education Supplies Technology Co.Ltd" ;
+    ex:fax "86-0579-85549671" ;
+    ex:finalController "沈从伟" ;
+    ex:industry "轻工制造 — 包装印刷Ⅱ" ;
+    ex:legalRepresentative "沈从伟" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/870082.png" ;
+    ex:mainBusiness "从事文具用品的批发和化妆品塑料包装的制造" ;
+    ex:majorShareholder "沈从伟" ;
+    ex:officeAddress "浙江省金华市义乌市上溪镇新潘路7号" ;
+    ex:phone "86-0579-89979155" ;
+    ex:region "浙江省" ;
+    ex:registeredCapital "5024.77万元" ;
+    ex:stockCode "870082" ;
+    ex:website "www.join-china.net" ;
+    ex:zipcode "322000" .
+
+<http://example.org/ontology/company/870275> a ex:Company ;
+    ex:actualController "徐翔" ;
+    ex:ceo "李鹏" ;
+    ex:chairman "徐翔" ;
+    ex:chairmanSecretary "张吟" ;
+    ex:companyName "伯格森(北京)科技股份有限公司" ;
+    ex:employeeCount "16" ;
+    ex:englishName "Bergsun Tec." ;
+    ex:fax "86-010-66001880;86-010-66001770" ;
+    ex:finalController "徐翔" ;
+    ex:industry "商业贸易 — 贸易" ;
+    ex:legalRepresentative "徐翔" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/870275.png" ;
+    ex:mainBusiness "实验室设备的销售、安装调试及维修保养等服务；提供实验室配套的科研设备解决方案及检测服务；提供实验室设备的代理进口服务等。" ;
+    ex:majorShareholder "徐翔" ;
+    ex:officeAddress "北京市西城区新街口外大街8号11幢5区101号" ;
+    ex:phone "86-010-66001770" ;
+    ex:region "北京市" ;
+    ex:registeredCapital "1000万元" ;
+    ex:stockCode "870275" ;
+    ex:website "www.bergsunbj.com" ;
+    ex:zipcode "100088" .
+
+<http://example.org/ontology/company/870316> a ex:Company ;
+    ex:actualController "李银环、成其明" ;
+    ex:ceo "路怀印" ;
+    ex:chairman "成其明" ;
+    ex:chairmanSecretary "王雪琳" ;
+    ex:companyName "山东明大化学科技股份有限公司" ;
+    ex:employeeCount "295" ;
+    ex:englishName "Shandong Mingda Chemical Technology Co.,Ltd" ;
+    ex:fax "86-0635-4232111" ;
+    ex:finalController "李银环、成其明" ;
+    ex:industry "化工 — 化学制品" ;
+    ex:legalRepresentative "路怀印" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/870316.png" ;
+    ex:mainBusiness "基础化工产品类业务" ;
+    ex:majorShareholder "山东明辉食品有限公司" ;
+    ex:officeAddress "山东省聊城市茌平县齐鲁味精工业园" ;
+    ex:phone "86-0635-2983699" ;
+    ex:region "山东省" ;
+    ex:registeredCapital "8967万元" ;
+    ex:stockCode "870316" ;
+    ex:website "www.mingdachemicals.com" ;
+    ex:zipcode "252100" .
+
+<http://example.org/ontology/company/870544> a ex:Company ;
+    ex:actualController "姚秉浪" ;
+    ex:ceo "姚秉浪" ;
+    ex:chairman "姚秉浪" ;
+    ex:chairmanSecretary "阙永强" ;
+    ex:companyName "广东迪浪科技股份有限公司" ;
+    ex:employeeCount "99" ;
+    ex:englishName "Guangdong Dilang Technology Co.,Ltd." ;
+    ex:fax "86-0750-3973004" ;
+    ex:finalController "姚秉浪" ;
+    ex:industry "信息服务 — 计算机应用" ;
+    ex:legalRepresentative "姚秉浪" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/870544.png" ;
+    ex:mainBusiness "电子政务的系统集成和技术服务、档案数字化及配套的软件开发和销售" ;
+    ex:majorShareholder "姚秉浪" ;
+    ex:officeAddress "广东省江门市蓬江区港口二路十七号第二层至第五层" ;
+    ex:phone "86-0750-3973003" ;
+    ex:region "广东省" ;
+    ex:registeredCapital "2000万元" ;
+    ex:stockCode "870544" ;
+    ex:website "www.gddlkj.com" ;
+    ex:zipcode "529000" .
+
+<http://example.org/ontology/company/870860> a ex:Company ;
+    ex:actualController "WONG C S DESMOND" ;
+    ex:ceo "李力" ;
+    ex:chairman "WONG C S DESMOND" ;
+    ex:chairmanSecretary "潘金梅" ;
+    ex:companyName "深圳金三立视频科技股份有限公司" ;
+    ex:employeeCount "323" ;
+    ex:englishName "Shenzhen Santachi Video Technology Co., Ltd" ;
+    ex:fax "86-0755-83143823" ;
+    ex:finalController "WONG C S DESMOND" ;
+    ex:industry "电子 — 其他电子" ;
+    ex:legalRepresentative "李力" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/870860.png" ;
+    ex:mainBusiness "全系列网络和模拟视频监控产品的研发、生产、销售和服务，并提供高清视频监控综合解决方案" ;
+    ex:majorShareholder "三立(香港)有限公司" ;
+    ex:officeAddress "广东省深圳市龙华区龙华街道清湖社区雪岗北路306号胜立工业园J栋101-5栋整层" ;
+    ex:phone "86-0755-83150898" ;
+    ex:region "广东省" ;
+    ex:registeredCapital "6000万元" ;
+    ex:stockCode "870860" ;
+    ex:website "www.santachi.com.cn" ;
+    ex:zipcode "518109" .
+
+<http://example.org/ontology/company/871272> a ex:Company ;
+    ex:actualController "李响" ;
+    ex:ceo "李响" ;
+    ex:chairman "李响" ;
+    ex:chairmanSecretary "孙秋艳" ;
+    ex:companyName "北京理想传媒股份有限公司" ;
+    ex:employeeCount "23" ;
+    ex:englishName "Beijing Ideal Media Co., Ltd." ;
+    ex:fax "86-010-53704051" ;
+    ex:finalController "李响" ;
+    ex:industry "信息服务 — 传媒" ;
+    ex:legalRepresentative "李响" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/871272.png" ;
+    ex:mainBusiness "大型活动策划与运营；演艺经纪" ;
+    ex:majorShareholder "李响" ;
+    ex:officeAddress "北京市朝阳区广渠东路竞园艺术中心37B" ;
+    ex:phone "86-010-57304053" ;
+    ex:region "北京市" ;
+    ex:registeredCapital "1000.2万元" ;
+    ex:stockCode "871272" ;
+    ex:website "www.lxcm.tv" ;
+    ex:zipcode "100124" .
+
+<http://example.org/ontology/company/872118> a ex:Company ;
+    ex:actualController "李金印、杨菊" ;
+    ex:ceo "李金印" ;
+    ex:chairman "李金印" ;
+    ex:chairmanSecretary "徐文政" ;
+    ex:companyName "广州皇瑞科技股份有限公司" ;
+    ex:employeeCount "93" ;
+    ex:englishName "Huang Rui Technology Co.,Ltd" ;
+    ex:fax "86-020-38108761" ;
+    ex:finalController "李金印、杨菊" ;
+    ex:industry "商业贸易 — 贸易" ;
+    ex:legalRepresentative "李金印" ;
+    ex:logo "http://eq.10jqka.com.cn/logo/872118.png" ;
+    ex:mainBusiness "通过自有及第三方互联网平台向美容院及经销商销售专业线美容化妆品" ;
+    ex:majorShareholder "李金印" ;
+    ex:officeAddress "广东省广州市天河区华夏路28号富力盈信大厦3210、3211、3212房" ;
+    ex:phone "86-020-38108363" ;
+    ex:region "广东省" ;
+    ex:registeredCapital "2000万元" ;
+    ex:stockCode "872118" ;
+    ex:website "www.cdoboe.com" ;
+    ex:zipcode "510623" .
+
+<http://example.org/ontology/company/ABB> a ex:Company ;
+    ex:companyName "ABB Ltd" ;
+    ex:employeeCount "146600" ;
+    ex:englishName "Abb Ltd" ;
+    ex:industry "重型电气设备" ;
+    ex:officeAddress "Affolternstrasse 44CH-8050 ZurichSwitzerland" ;
+    ex:stockCode "ABB" .
+
+<http://example.org/ontology/company/AKBA> a ex:Company ;
+    ex:companyName "Akebia Therapeutics, Inc." ;
+    ex:employeeCount "324" ;
+    ex:englishName "Akebia Therapeutics, Inc." ;
+    ex:industry "生命科学工具和服务" ;
+    ex:officeAddress "245 First Street Suite 1100Cambridge MA 02142" ;
+    ex:stockCode "AKBA" .
+
+<http://example.org/ontology/company/ALLO> a ex:Company ;
+    ex:companyName "Allogene Therapeutics, Inc." ;
+    ex:employeeCount "122" ;
+    ex:englishName "Allogene Therapeutics, Inc." ;
+    ex:industry "生物科技" ;
+    ex:officeAddress "210 East Grand AvenueSouth San FranciscoCalifornia 94080" ;
+    ex:stockCode "ALLO" .
+
+<http://example.org/ontology/company/ANDV> a ex:Company ;
+    ex:companyName "Andeavor" ;
+    ex:employeeCount "14300" ;
+    ex:englishName "Andeavor" ;
+    ex:industry "石油与天然气的炼制和营销" ;
+    ex:officeAddress "19100 Ridgewood ParkwaySan AntonioTexas 78259-1828" ;
+    ex:stockCode "ANDV" .
+
+<http://example.org/ontology/company/AQUA> a ex:Company ;
+    ex:companyName "Evoqua Water Technologies Corp." ;
+    ex:employeeCount "4000" ;
+    ex:englishName "Evoqua Water Technologies Corp." ;
+    ex:industry "多种化学制品" ;
+    ex:officeAddress "210 Sixth AvenuePittsburghPennsylvania 15222" ;
+    ex:stockCode "AQUA" .
+
+<http://example.org/ontology/company/ASPS> a ex:Company ;
+    ex:companyName "Altisource Portfolio Solutions S.A." ;
+    ex:employeeCount "6128" ;
+    ex:englishName "Altisource Portfolio Solutions S.A." ;
+    ex:industry "其它综合性金融服务" ;
+    ex:officeAddress "40 avenue MontereyL-2163 LuxembourgGrand Duchy of Luxembourg" ;
+    ex:stockCode "ASPS" .
+
+<http://example.org/ontology/company/BPL> a ex:Company ;
+    ex:companyName "巴克艾合伙公司" ;
+    ex:employeeCount "1600" ;
+    ex:englishName "Buckeye Partners, L.P." ;
+    ex:industry "石油与天然气的储存和运输" ;
+    ex:officeAddress "One Greenway PlazaSuite 600HoustonTX" ;
+    ex:stockCode "BPL" .
+
+<http://example.org/ontology/company/CALD> a ex:Company ;
+    ex:companyName "Callidus Software Inc." ;
+    ex:employeeCount "1300" ;
+    ex:englishName "Callidus Software Inc." ;
+    ex:industry "应用软件" ;
+    ex:officeAddress "4140 Dublin BoulevardSuite 400DublinCalifornia 94568" ;
+    ex:stockCode "CALD" .
+
+<http://example.org/ontology/company/CHMA> a ex:Company ;
+    ex:companyName "Chiasma, Inc." ;
+    ex:employeeCount "18" ;
+    ex:englishName "Chiasma, Inc." ;
+    ex:industry "制药" ;
+    ex:officeAddress "460 Totten Pond RoadSuite 530WalthamMA" ;
+    ex:stockCode "CHMA" .
+
+<http://example.org/ontology/company/CMCSK> a ex:Company ;
+    ex:companyName "康卡斯特公司" ;
+    ex:employeeCount "184000" ;
+    ex:englishName "Comcast Corporation" ;
+    ex:industry "有线和卫星电视" ;
+    ex:officeAddress "One Comcast CenterPhiladelphiaPA 19103-2838" ;
+    ex:stockCode "CMCSK" .
+
+<http://example.org/ontology/company/CSLT> a ex:Company ;
+    ex:companyName "Castlight Health, Inc." ;
+    ex:employeeCount "470" ;
+    ex:englishName "Castlight Health, Inc." ;
+    ex:industry "数据处理与外包服务" ;
+    ex:officeAddress "150 Spear StreetSuite 400San FranciscoCA 94105" ;
+    ex:stockCode "CSLT" .
+
+<http://example.org/ontology/company/EDR> a ex:Company ;
+    ex:companyName "Endeavor Group Holdings, Inc." ;
+    ex:employeeCount "7000" ;
+    ex:englishName "Endeavor Group Holdings, Inc." ;
+    ex:industry "Oil: Crude Producers" ;
+    ex:officeAddress "9601 Wilshire Boulevard3rd FloorBeverly Hills CA 90210" ;
+    ex:stockCode "EDR" .
+
+<http://example.org/ontology/company/FCB> a ex:Company ;
+    ex:companyName "FCB Financial Holdings, Inc." ;
+    ex:employeeCount "708" ;
+    ex:englishName "Fcb Financial Holdings, Inc." ;
+    ex:industry "区域性银行" ;
+    ex:officeAddress "2500 Weston RoadSuite 300WestonFlorida" ;
+    ex:stockCode "FCB" .
+
+<http://example.org/ontology/company/FGL> a ex:Company ;
+    ex:companyName "富达担保人寿" ;
+    ex:employeeCount "299" ;
+    ex:englishName "Fidelity & Guaranty Life" ;
+    ex:industry "人寿与健康保险" ;
+    ex:officeAddress "Two Ruan Center 601 Locust Street14th FloorDes MoinesIowa" ;
+    ex:stockCode "FGL" .
+
+<http://example.org/ontology/company/GENE> a ex:Company ;
+    ex:companyName "基因技术有限公司" ;
+    ex:employeeCount "15" ;
+    ex:englishName "Genetic Technologies Limited" ;
+    ex:industry "生物科技" ;
+    ex:officeAddress "60-66 Hanover StreetFitzroyVictoria3065Australia" ;
+    ex:stockCode "GENE" .
+
+<http://example.org/ontology/company/IIIN> a ex:Company ;
+    ex:companyName "Insteel Industries, Inc." ;
+    ex:employeeCount "810" ;
+    ex:englishName "Insteel Industries, Inc." ;
+    ex:industry "钢铁" ;
+    ex:officeAddress "1373 Boggs DriveMount AiryNorth Carolina 27030" ;
+    ex:stockCode "IIIN" .
+
+<http://example.org/ontology/company/ITP> a ex:Company ;
+    ex:companyName "东方纸业股份有限公司" ;
+    ex:employeeCount "537" ;
+    ex:englishName "It Tech Packaging, Inc." ;
+    ex:industry "纸制品" ;
+    ex:officeAddress "中国河北省保定市徐水县巨力路东方纸业" ;
+    ex:stockCode "ITP" .
+
+<http://example.org/ontology/company/KMP> a ex:Company ;
+    ex:companyName "Kinder Morgan Energy Partners, L.P." ;
+    ex:employeeCount "11075" ;
+    ex:englishName "Kinder Morgan Energy Partners, L.P." ;
+    ex:industry "石油与天然气的储存和运输" ;
+    ex:officeAddress "1001 Louisiana StreetSuite 1000HoustonTexas 77002" ;
+    ex:stockCode "KMP" .
+
+<http://example.org/ontology/company/MWE> a ex:Company ;
+    ex:companyName "Markwest Energy Partners, L.P." ;
+    ex:employeeCount "1404" ;
+    ex:englishName "Markwest Energy Partners, L.P." ;
+    ex:industry "Telecommunications Equipment" ;
+    ex:officeAddress "1515 Arapahoe StreetTower 1Suite 1600DenverCO 80202-2137" ;
+    ex:stockCode "MWE" .
+
+<http://example.org/ontology/company/NXY> a ex:Company ;
+    ex:companyName "Nexen Inc." ;
+    ex:employeeCount "3228" ;
+    ex:englishName "Nexen Inc." ;
+    ex:industry "综合性石油与天然气企业" ;
+    ex:officeAddress "801 – 7th Avenue S.W.CalgaryAlbertaCanada T2P 3P7" ;
+    ex:stockCode "NXY" .
+
+<http://example.org/ontology/company/PANW> a ex:Company ;
+    ex:companyName "Palo Alto Networks, Inc." ;
+    ex:employeeCount "5348" ;
+    ex:englishName "Palo Alto Networks, Inc." ;
+    ex:industry "互联网服务和基础设施" ;
+    ex:officeAddress "3000 Tannery Way Santa Clara California 95054" ;
+    ex:stockCode "PANW" .
+
+<http://example.org/ontology/company/PSTL> a ex:Company ;
+    ex:companyName "Postal Realty Trust, Inc." ;
+    ex:employeeCount "--" ;
+    ex:englishName "Postal Realty Trust, Inc." ;
+    ex:industry "抵押房地产投资信托" ;
+    ex:officeAddress "75 Columbia AvenueCedarhurstLong Island CityNY 11516" ;
+    ex:stockCode "PSTL" .
+
+<http://example.org/ontology/company/TCRR> a ex:Company ;
+    ex:companyName "Tcr2 Therapeutics Inc." ;
+    ex:employeeCount "47" ;
+    ex:englishName "Tcr2 Therapeutics Inc." ;
+    ex:industry "生物科技" ;
+    ex:officeAddress "100 Binney StreetSuite 710CambridgeBostonMassachusetts 02142" ;
+    ex:stockCode "TCRR" .
+
+<http://example.org/ontology/company/WWR> a ex:Company ;
+    ex:companyName "Westwater Resources, Inc." ;
+    ex:employeeCount "32" ;
+    ex:englishName "Westwater Resources, Inc." ;
+    ex:industry "多种金属与采矿" ;
+    ex:officeAddress "6950 S. Potomac StreetSuite 300CentennialColorado" ;
+    ex:stockCode "WWR" .
+
