@@ -27,6 +27,47 @@ financial-knowledge-graph/
 └── main.py                # 主程序入口
 ```
 
+## 操作流程
+
+本项目采用"数据清洗与标准化 → RDF三元组生成 → 属性图导入 → RDF与属性图同步 → 图分析与KBQA开发"的混合知识图谱构建流程。
+
+### 1. 数据清洗与标准化
+- 目的：处理原始数据中的缺失值、格式不统一、冗余等问题，生成结构化干净数据。
+- 操作命令：
+```bash
+python src/data_collection/data_cleaning.py
+```
+- 输入：`data/financial_data_sample.json`
+- 输出：`data/financial_data_cleaned.json`
+
+### 2. RDF三元组生成与导出
+- 目的：将清洗后的数据转为RDF三元组，便于语义建模和数据共享。
+- 操作命令：
+```bash
+python src/data_collection/rdf_export.py
+```
+- 输入：`data/financial_data_cleaned.json`
+- 输出：`data/financial_data_cleaned.ttl`（Turtle格式）
+
+### 3. 属性图数据导入（Neo4j）
+- 目的：将结构化数据导入Neo4j图数据库，支持高效的图查询和分析。
+- 操作命令：
+（待补充，后续会提供导入脚本和说明）
+
+### 4. RDF与属性图同步
+- 目的：实现RDF数据与Neo4j属性图的互操作，支持语义推理和图分析的结合。
+- 操作命令：
+（待补充，后续会提供同步脚本和说明）
+
+### 5. 图分析与KBQA开发
+- 目的：基于知识图谱实现图算法分析和基于REfO的问答系统。
+- 操作命令：
+（待补充，后续会提供分析和问答模块的说明）
+
+---
+
+每完成一步，都会同步更新本流程和相关脚本，并推送到GitHub。
+
 ## 实验步骤记录
 
 ### 1. 项目初始化 (2024-01-XX)
