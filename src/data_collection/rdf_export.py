@@ -46,7 +46,8 @@ def export_rdf(input_file, output_file):
     with open(input_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
     for item in data:
-        # 用公司代码或公司名称唯一标识公司URI
+        # 用公司代码生成公司唯一的URI节点，作为RDF三元组的主语
+        # 例如：code=839421 -> http://example.org/ontology/company/839421
         code = item.get('股票代码', None)
         name = item.get('公司名称', None)
         if code and code != '未知':
