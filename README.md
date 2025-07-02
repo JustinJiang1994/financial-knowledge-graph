@@ -230,3 +230,46 @@ python main.py --mode analysis
 ## 许可证
 
 MIT License 
+
+## Jena Fuseki集成与SPARQL查询
+
+### 1. Jena Fuseki安装
+- 访问 https://jena.apache.org/download/index.cgi 下载最新Fuseki二进制包
+- 解压后进入目录
+- **注意：Fuseki 5.4.0 及以上需要Java 17**
+- Mac用户可用Homebrew安装Java 17：
+  ```bash
+  brew install openjdk@17
+  export JAVA_HOME="/usr/local/opt/openjdk@17"
+  export PATH="$JAVA_HOME/bin:$PATH"
+  ```
+- 检查Java版本：
+  ```bash
+  java -version
+  # 应显示 openjdk version "17..."
+  ```
+
+### 2. 启动Fuseki服务
+```bash
+cd ~/jena-fuseki
+./fuseki-server
+```
+- 默认Web管理界面：http://localhost:3030
+
+### 3. 导入RDF数据
+- 浏览器访问 http://localhost:3030
+- 新建数据集（如 financialkg），选择 Persistent (TDB2)
+- 上传 data/financial_data_cleaned.ttl 文件
+
+### 4. SPARQL查询示例
+```sparql
+SELECT ?company ?name WHERE {
+  ?company <http://example.org/ontology/companyName> ?name .
+} LIMIT 10
+```
+
+### 5. 遇到的问题与解决建议
+- **报错：UnsupportedClassVersionError (class file version 61.0)**
+  - 说明Java版本过低，需升级到Java 17
+  - Mac可用brew安装openjdk@17，并设置JAVA_HOME
+- 其他问题可参考官方文档或联系开发者 
